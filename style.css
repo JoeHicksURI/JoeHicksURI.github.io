@@ -1,0 +1,44 @@
+body {
+    background-color: #dde8ec;
+}
+
+#nav-table {
+    width: 800px;
+}
+
+#nav-td {
+    width: 266px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.right-paragraph {
+    float:right;
+    width: 80%;
+    
+    
+}
+
+.left-image {
+    float: left;
+    width:200px;
+    margin-right: 6px;
+    margin-bottom: 6px;
+    
+    
+}
+
+#text-images {
+    width: 800px;
+   
+}
+
